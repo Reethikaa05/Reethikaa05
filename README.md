@@ -18,14 +18,6 @@ Hi, I’m **Reethika Selvam S** – a passionate developer and technology enthus
 
 ---
 
-### 💡 Interests & Skills  
-- 🌐 **Web Development**: HTML, CSS, JavaScript, React  
-- 📱 **Android Development**: Kotlin, Java  
-- ⚙️ **Backend & Databases**: Python, Java, SQL  
-- 🧩 **Problem Solving & Data Structures**  
-
----
-
 ### ✨ Open To  
 - 🤝 Collaborating on real-world projects  
 - 🚀 Participating in hackathons  
