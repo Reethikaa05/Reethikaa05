@@ -1,5 +1,30 @@
-# 💫 About Me:
-Hi, I’m Reethika Selvam S – a passionate developer and technology enthusiast. I enjoy solving problems, building impactful applications, and continuously learning to stay ahead in the tech world.<br><br>🎓 Education & Achievements<br><br>Completed Master of Computer Applications (MCA) at Manonmaniam Sundaranar University (2023 – 2025)<br><br>Gold Medalist 🏅<br><br>University Rank Holder (1st)<br><br>Completed Bachelor of Science in Computer Science (B.Sc. CS) (2020 – 2023)<br><br>3rd Rank Holder 🥉<br><br>💡 Interests & Skills<br><br>Web Development 🌐 – HTML, CSS, JavaScript, React<br><br>Android Development 📱 – Kotlin, Java<br><br>Backend & Database ⚙️ – Python, Java, SQL<br><br>Problem-Solving & Data Structures<br><br>🌱 I’m currently exploring full-stack development and working on personal projects like a Tour Explorer Website and Android-based Profile Management App.<br><br>✨ I’m always open to collaborating on real-world projects, hackathons, and research-oriented work that bridges innovation and practical application.
+# 💫 About Me
+
+Hi, I’m **Reethika Selvam S** – a passionate developer and technology enthusiast. I enjoy solving problems, building impactful applications, and continuously learning to stay ahead in the tech world.  
+
+---
+
+### 🎓 Education & Achievements  
+- 🎓 **Master of Computer Applications (MCA)** – *Manonmaniam Sundaranar University* (2023 – 2025)  
+  - 🏅 **Gold Medalist & University Rank Holder (1st)**  
+- 🎓 **Bachelor of Science in Computer Science (B.Sc. CS)** – (2020 – 2023)  
+  - 🥉 **3rd Rank Holder**  
+
+---
+
+### 💡 Interests & Skills  
+- 🌐 **Web Development**: HTML, CSS, JavaScript, React  
+- 📱 **Android Development**: Kotlin, Java  
+- ⚙️ **Backend & Databases**: Python, Java, SQL  
+- 🧩 **Problem Solving & Data Structures**  
+
+---
+
+### ✨ Open To  
+- 🤝 Collaborating on real-world projects  
+- 🚀 Participating in hackathons  
+- 📖 Research-oriented work that bridges **innovation with practical application**  
+
 
 
 ## 🌐 Socials:
